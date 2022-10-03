@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(136, 238, 238)  ;
+}
+h1{
+    color: red;
+    background: blue;
+}
+h2{
+    color: green;
+    background: blue;
+}
+h3{
+    color: blue;
+    background: red;
+}
+table{
+    border: 5px red;
+}
+th{
+    border:5px red;
+}
+td{
+    border: 5px red;
+}
+b{
+    font-size: 20px;
+    color: blue;
+}
+a{
+    color: green;
+    font-size: 30px;
+}
+li{
+    color: green;
+    font-size: 14px;
+}
